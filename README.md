@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @muhammdshibil
-- 
+- M Tech Data Science Student @AMRITA University
+- Data Science & Machine learning Enthusiast 
 
 <!---
 muhammdshibil/muhammdshibil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @muhammdshibil
-- M Tech Data Science Student @AMRITA University
+- 👋 Hi, I’m MUHAMMED SHIBIL
+- M Tech Data Science Student @AMRITA University (Amrita Vishwa Vidyappetham)
 - Data Science & Machine learning Enthusiast
 - here you can find works done by me
 
